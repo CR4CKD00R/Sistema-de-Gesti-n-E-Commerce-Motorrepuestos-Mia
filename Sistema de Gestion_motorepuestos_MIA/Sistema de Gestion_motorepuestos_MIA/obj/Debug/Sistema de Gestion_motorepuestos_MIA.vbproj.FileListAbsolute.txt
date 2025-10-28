@@ -1,0 +1,11 @@
+c:\users\junior hurtado\documents\visual studio 2015\Projects\Sistema de Gestion_motorepuestos_MIA\Sistema de Gestion_motorepuestos_MIA\bin\Debug\Sistema de Gestion_motorepuestos_MIA.exe.config
+c:\users\junior hurtado\documents\visual studio 2015\Projects\Sistema de Gestion_motorepuestos_MIA\Sistema de Gestion_motorepuestos_MIA\bin\Debug\Sistema de Gestion_motorepuestos_MIA.exe
+c:\users\junior hurtado\documents\visual studio 2015\Projects\Sistema de Gestion_motorepuestos_MIA\Sistema de Gestion_motorepuestos_MIA\bin\Debug\Sistema de Gestion_motorepuestos_MIA.pdb
+c:\users\junior hurtado\documents\visual studio 2015\Projects\Sistema de Gestion_motorepuestos_MIA\Sistema de Gestion_motorepuestos_MIA\bin\Debug\Sistema de Gestion_motorepuestos_MIA.xml
+c:\users\junior hurtado\documents\visual studio 2015\Projects\Sistema de Gestion_motorepuestos_MIA\Sistema de Gestion_motorepuestos_MIA\obj\Debug\Sistema de Gestion_motorepuestos_MIA.vbprojResolveAssemblyReference.cache
+c:\users\junior hurtado\documents\visual studio 2015\Projects\Sistema de Gestion_motorepuestos_MIA\Sistema de Gestion_motorepuestos_MIA\obj\Debug\Sistema_de_Gestion_motorepuestos_MIA.Form1.resources
+c:\users\junior hurtado\documents\visual studio 2015\Projects\Sistema de Gestion_motorepuestos_MIA\Sistema de Gestion_motorepuestos_MIA\obj\Debug\Sistema_de_Gestion_motorepuestos_MIA.Resources.resources
+c:\users\junior hurtado\documents\visual studio 2015\Projects\Sistema de Gestion_motorepuestos_MIA\Sistema de Gestion_motorepuestos_MIA\obj\Debug\Sistema de Gestion_motorepuestos_MIA.vbproj.GenerateResource.Cache
+c:\users\junior hurtado\documents\visual studio 2015\Projects\Sistema de Gestion_motorepuestos_MIA\Sistema de Gestion_motorepuestos_MIA\obj\Debug\Sistema de Gestion_motorepuestos_MIA.exe
+c:\users\junior hurtado\documents\visual studio 2015\Projects\Sistema de Gestion_motorepuestos_MIA\Sistema de Gestion_motorepuestos_MIA\obj\Debug\Sistema de Gestion_motorepuestos_MIA.xml
+c:\users\junior hurtado\documents\visual studio 2015\Projects\Sistema de Gestion_motorepuestos_MIA\Sistema de Gestion_motorepuestos_MIA\obj\Debug\Sistema de Gestion_motorepuestos_MIA.pdb
